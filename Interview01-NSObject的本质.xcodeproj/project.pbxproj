@@ -31,6 +31,10 @@
 		3E5075A725972B30007B9C24 /* Xnip2020-12-26_15-46-20.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Xnip2020-12-26_15-46-20.jpg"; sourceTree = "<group>"; };
 		3E5075A825972B30007B9C24 /* Xnip2020-12-26_16-07-29.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Xnip2020-12-26_16-07-29.jpg"; sourceTree = "<group>"; };
 		3E5075A925972B30007B9C24 /* Xnip2020-12-26_15-45-59.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Xnip2020-12-26_15-45-59.jpg"; sourceTree = "<group>"; };
+		3EB5625F259730D7002851B2 /* Xnip2020-12-26_16-43-11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Xnip2020-12-26_16-43-11.jpg"; sourceTree = "<group>"; };
+		3EB56260259730E1002851B2 /* Xnip2020-12-26_16-44-05.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Xnip2020-12-26_16-44-05.jpg"; sourceTree = "<group>"; };
+		3EB56261259730E1002851B2 /* Xnip2020-12-26_16-46-32.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Xnip2020-12-26_16-46-32.jpg"; sourceTree = "<group>"; };
+		3EB56262259730E1002851B2 /* Xnip2020-12-26_16-49-04.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Xnip2020-12-26_16-49-04.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +82,10 @@
 				3E5075A925972B30007B9C24 /* Xnip2020-12-26_15-45-59.jpg */,
 				3E5075A725972B30007B9C24 /* Xnip2020-12-26_15-46-20.jpg */,
 				3E5075A825972B30007B9C24 /* Xnip2020-12-26_16-07-29.jpg */,
+				3EB5625F259730D7002851B2 /* Xnip2020-12-26_16-43-11.jpg */,
+				3EB56260259730E1002851B2 /* Xnip2020-12-26_16-44-05.jpg */,
+				3EB56261259730E1002851B2 /* Xnip2020-12-26_16-46-32.jpg */,
+				3EB56262259730E1002851B2 /* Xnip2020-12-26_16-49-04.jpg */,
 			);
 			path = "NSObject内存占用多少内存相关截图";
 			sourceTree = "<group>";
